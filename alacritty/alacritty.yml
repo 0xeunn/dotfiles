@@ -1,0 +1,8 @@
+font:
+  normal:
+    # Use the terminal-specific font
+    family: Iosevka Curly
+    style: Regular
+
+   Set the font size to your preference
+    size: 11
